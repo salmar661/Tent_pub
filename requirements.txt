@@ -153,7 +153,7 @@ lime==0.2.0.1
 llvmlite==0.34.0
 locket==0.2.0
 #lxml @ file:///C:/ci/lxml_1603216366346/work
-MarkupSafe==1.1.1
+#MarkupSafe==1.1.1
 #matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
 #mccabe==0.6.1
 menuinst==1.4.16
